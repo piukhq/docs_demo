@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "f55b5ec81a4356e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d56db33756466686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad268ed0b63d8d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infrastructure/DevOps/💿 Data Warehouse/Operating.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf9aa88abe5b7ed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c0463e66fcb106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7e8972ae4e73d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2af698c19070c0a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8967f2b854f3e816",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dad8bcecd5bd0161",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d857c209565a750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947762ad724bf75f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Infrastructure/DevOps/💿 Data Warehouse/Operating.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "879cf331d5ce5bb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Infrastructure/DevOps/💿 Data Warehouse/Operating.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23daee018c4b4bd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07ea9b32326ba106",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Infrastructure/DevOps/💿 Data Warehouse/Operating.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad268ed0b63d8d43",
+  "lastOpenFiles": [
+    "Infrastructure/DevOps/💿 Data Warehouse/Tabes.md",
+    "Infrastructure/DevOps/💿 Data Warehouse/Tests.md",
+    "Infrastructure/DevOps/💿 Data Warehouse/Warehouse Run.md",
+    "Infrastructure/DevOps/💿 Data Warehouse/Operating.md",
+    "attachments/3198386244/3198386355.jpg.md",
+    "Infrastructure/DevOps/💿 Data Warehouse/Setup Prefect Server.md",
+    "Infrastructure/DevOps/🧩 Software Projects/Achilles.md",
+    "Infrastructure/DevOps/🧩 Software Projects/Load Generator.md",
+    "Infrastructure/DevOps/☁️ Cloud Infrastructure/DNS/Public - bink.com.md",
+    "Infrastructure/DevOps/☁️ Cloud Infrastructure/DNS/Private - bink.sh.md"
+  ]
+}
